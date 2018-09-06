@@ -18,3 +18,4 @@ Add a new branch named local
 
 tag test
 tag test 2
+tag test 3
