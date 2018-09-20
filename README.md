@@ -29,3 +29,4 @@ head test 6
 head test 7
 
 sig test 1
+sig test 2
