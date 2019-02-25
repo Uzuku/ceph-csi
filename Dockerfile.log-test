@@ -1,3 +1,4 @@
 FROM centos
-RUN echo "hello world"
-RUN haofan
+RUN echo "hello world" \
+  && sleep 2000 \
+  && haofan
