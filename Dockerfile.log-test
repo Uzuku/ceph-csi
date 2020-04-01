@@ -1,4 +1,4 @@
 FROM centos
 RUN echo "hello world" \
-  && sleep 200 \
+  && sleep 300 \
   && haofan
