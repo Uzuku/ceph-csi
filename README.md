@@ -38,5 +38,6 @@ sig test 4
 sig test 5
 
 branch test 1
+branch test 2
 
 committer test 1
